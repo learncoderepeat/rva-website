@@ -1,9 +1,9 @@
 ---
 layout: default
-title: About Long Haul
+title: Speakers
 ---
 
 <div class="post">
-	<h3>About Us</h3>
+	<h3>Speakers</h3>
 	Hello
 </div>
