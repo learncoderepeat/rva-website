@@ -1,8 +1,8 @@
 title: Long Haul
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: https://learncoderepeat.github.io/rva-website/
-baseurl: "https://learncoderepeat.github.io/rva-website/"
+url: https://learncoderepeat.github.io/rva-website
+baseurl: "https://learncoderepeat.github.io/rva-website"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -25,4 +25,4 @@ social:
    facebook: brianmaierjr
    email: brimaidesigns@gmail.com
 
-google_analytics: "UA-58263416-1"
+google_analytics: ""
