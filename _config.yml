@@ -1,8 +1,8 @@
 title: Learn Code Repeat
 description: Day of learning about stuff.
 
-url: https://learncoderepeat.github.io/rva-website
-baseurl: "https://learncoderepeat.github.io/rva-website"
+url: http://learncoderepeat.org
+baseurl: "http://learncoderepeat.org"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
