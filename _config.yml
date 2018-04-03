@@ -14,8 +14,8 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
- - title: About
-   url: /about
+ - title: Speakers
+   url: /speakers
  - title: Event Details
    url: /eventdetails
 
