@@ -3,7 +3,7 @@ layout: default
 title: Speakers
 ---
 
-<div class="post">
+<div>
 	<h3>Speakers</h3>
 	Hello
 </div>
