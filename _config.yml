@@ -14,15 +14,17 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
- - title: Speakers
-   url: /speakers
  - title: Event Details
    url: /eventdetails
+ - title: Schedule
+   url: /schedule
+ - title: Speakers
+   url: /speakers
+ - title: Sponsors
+   url: /sponsors
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   twitter: learncoderepeat
+   email: info@learncoderepeat.org
 
 google_analytics: ""
